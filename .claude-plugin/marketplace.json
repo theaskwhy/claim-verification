@@ -1,0 +1,14 @@
+{
+  "name": "claim-verification",
+  "owner": {
+    "name": "The Ask Why Company",
+    "url": "https://github.com/theaskwhy"
+  },
+  "plugins": [
+    {
+      "name": "claim-verification",
+      "source": "./",
+      "description": "Verify important factual claims with traceable sources, dates, provenance, corroboration, and explicit uncertainty."
+    }
+  ]
+}

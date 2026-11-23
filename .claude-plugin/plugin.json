@@ -1,0 +1,9 @@
+{
+  "name": "claim-verification",
+  "description": "Verify important factual claims with traceable sources, dates, provenance, corroboration, and explicit uncertainty.",
+  "version": "1.0.0",
+  "author": {
+    "name": "The Ask Why Company"
+  },
+  "license": "MIT"
+}
